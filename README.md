@@ -28,7 +28,8 @@ It allows users to manage student records such as adding, updating, deleting, an
 
 
 ## ⚙️ How to Run the Project
-
 ### Step 1: Clone the Repository
+### Step 2: crate database in mySQL "studentApplicationApp
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+
